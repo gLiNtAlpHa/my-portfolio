@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Akinlolu Adeboye**
 - LinkedIn: [https://www.linkedin.com/in/akinlolu-adeboye-56499922b/](https://www.linkedin.com/in/akinlolu-adeboye-56499922b/)
-- Email: akinlolu.adeboye@email.com
+- Email:sesaalolu@gmail.com
 
 ##  Acknowledgments
 
