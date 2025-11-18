@@ -1,10 +1,10 @@
 # Akinlolu Adeboye - 3D XR Portfolio
 
-## 🚀 Overview
+##  Overview
 
 An exceptional 3D portfolio showcasing senior-level expertise in XR technologies, featuring advanced physics simulations, particle systems, and immersive interactive experiences built with React Three Fiber and Cannon.js.
 
-## ✨ Features
+##  Features
 
 ### Advanced 3D Graphics
 - **Physics Simulations**: Real-time physics using Cannon.js
@@ -26,7 +26,7 @@ An exceptional 3D portfolio showcasing senior-level expertise in XR technologies
 - **Tech Stack**: Floating interactive technology icons
 - **Navigation Orbs**: 3D navigation elements
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 18** - UI Framework
 - **Three.js** - 3D Graphics Engine
@@ -37,7 +37,7 @@ An exceptional 3D portfolio showcasing senior-level expertise in XR technologies
 - **Vite** - Build tool
 - **Vercel** - Deployment platform
 
-## 📦 Installation
+##  Installation
 
 ```bash
 
@@ -48,7 +48,7 @@ npm install
 npm run dev
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel Deployment
 
@@ -70,14 +70,14 @@ npm run build
 npm run preview
 ```
 
-## 🎮 Controls
+##  Controls
 
 - **Mouse**: Orbit camera control
 - **Scroll**: Navigate through sections
 - **Click**: Interact with 3D objects
 - **Hover**: Reveal additional information
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 portfolio-3d/
@@ -101,7 +101,7 @@ portfolio-3d/
 └── vercel.json
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Colors
 Edit the CSS variables in `src/index.css`:
@@ -129,7 +129,7 @@ const projects = [
 ];
 ```
 
-## 🔧 Performance Optimization
+##  Performance Optimization
 
 - **Texture Compression**: Use basis/ktx2 formats
 - **Model Optimization**: Draco compression for GLTF models
@@ -138,14 +138,14 @@ const projects = [
 - **Frustum Culling**: Automatic with Three.js
 - **Code Splitting**: Dynamic imports for heavy components
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop**: 1920px and above
 - **Laptop**: 1024px - 1919px
 - **Tablet**: 768px - 1023px
 - **Mobile**: 320px - 767px
 
-## 🌟 Key Features Explained
+##  Key Features Explained
 
 ### Physics System
 The portfolio uses Cannon.js for realistic physics simulations:
@@ -166,7 +166,7 @@ Advanced visual effects using:
 - Depth of field for focus effects
 - Vignette for atmospheric depth
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -176,17 +176,17 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Contact
+##  Contact
 
 **Akinlolu Adeboye**
 - LinkedIn: [https://www.linkedin.com/in/akinlolu-adeboye-56499922b/](https://www.linkedin.com/in/akinlolu-adeboye-56499922b/)
 - Email: akinlolu.adeboye@email.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Three.js community for amazing documentation
 - React Three Fiber team for the excellent React renderer
